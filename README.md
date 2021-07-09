@@ -29,12 +29,12 @@ Users should be able to:
 
 ### Screenshot
 
-- Desktop View :images/results/desktop.jpg
-- Mobile View : images/results/mobile.jpg
+- Desktop View :[](images/results/desktop.jpg)
+- Mobile View : [](images/results/mobile.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://vinnaseti.github.io/single-price-grid-component-master/)
 
 ## My process
 
