@@ -1,4 +1,8 @@
 /* Body */
+.container {
+    margin-top: 25vh;
+}
+
 body {
     font-family: 'Karla', sans-serif;
     font-size: 16px;
@@ -6,7 +10,7 @@ body {
 }
 
 .br {
-    border-radius: 20px;
+    border-radius: 10px;
     overflow: hidden;
 }
 
