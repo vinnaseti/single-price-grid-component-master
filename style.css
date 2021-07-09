@@ -1,0 +1,25 @@
+/* Body */
+body {
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+}
+
+/* Card 1 */
+h5,
+h6 {
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400;
+}
+
+/* Footer */
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
